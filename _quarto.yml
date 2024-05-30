@@ -3,16 +3,18 @@ project:
   output-dir: docs
   
 website:
-  title: "My Website"
+  title: "Hongjun Kim"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - Traveling.qmd
+      - Portfolio.qmd
+      
 format:
   html:
-    theme: cosmo
+    theme: LUX
     css: styles.css
     toc: true
 

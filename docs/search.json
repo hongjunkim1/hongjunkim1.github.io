@@ -2,15 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My Website",
+    "title": "Hongjun Kim",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome!\n\nHello! my name is Hongjun Kim, I am a third year student at UCSB studying Statistics and Data Science. Extremely Intrigued by Data Science, Machine Learning (AI), and Data Architect.\n\nEducation\n\nBachelors degree in Statistics and Data Science at UC Santa Barbara.\nExpected to graduate June 2025."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Let me introduce myself!\n\nMy name is Hongjun Kim, I am a first generation immigrant from South Korea. I have lived and studied in the United States since 2010. I graduated from Granada Hills Charter High School back in 2020. Attended Los Angeles Pierce College to get Associate’s degree then transferred to UC Santa Barbara. I am Native in Korean, English and Limited Working Proficiency in Spanish.\n\nEducational Background\n\nI am experienced in multiple languages of coding: C++, R, Python, SQL, and Java."
+  },
+  {
+    "objectID": "Portfolio.html",
+    "href": "Portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Here are few examples of my work from relevant course works.\nLink to final paper in Psychology 074, as a first generation immigrant I decided to collect evaluate different perspective and support from diverse group of randomly selected individuals.\nFinal Draft on Support for Immigrants."
+  },
+  {
+    "objectID": "Traveling.html",
+    "href": "Traveling.html",
+    "title": "Traveling",
+    "section": "",
+    "text": "Hawaii Trip!\n\n\n\n\n\n\n\n\n\n\n\n\nBig Bear Trip!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKorea Trip!"
   }
 ]
