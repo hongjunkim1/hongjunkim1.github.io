@@ -2,26 +2,14 @@
 title: "Traveling"
 ---
 
-<h4>Hawaii Trip!</h4>
+<h2> Hawaii Trip! </h2>
 
----
-<img src = "Hawaii1.jpg" alt="Hawaii 1" width="300">
-<img src = "Hawaii2.jpg" alt="Hawaii 2" width="300">
-<img src = "Hawaii3.jpg" alt="Hawaii 3" width="300">
----
+<img src="Hawaii1.jpg" alt="Hawaii 1" width="300"/> <img src="Hawaii2.jpg" alt="Hawaii 2" width="300"/> <img src="Hawaii3.jpg" alt="Hawaii 3" width="300"/>
 
-<h4>Big Bear Trip!</h4>
+<h2> Big Bear Trip! </h2>
 
----
-<img src = "BigBear1.jpg" alt="Big Bear 1" width="300">
-<img src = "BigBear2.jpg" alt="Big Bear 2" width="300">
----
+<img src="BigBear1.jpg" alt="Big Bear 1" width="300"/> <img src="BigBear2.jpg" alt="Big Bear 2" width="300"/>
 
-<h4>Korea Trip!</h4>
+<h2> Korea Trip! </h2>
 
----
-<img src = "Korea1.jpg" alt="Korea 1" width="300">
-<img src = "Korea2.jpg" alt="Korea 2" width="300">
-<img src = "Korea3.jpg" alt="Korea 3" width="300">
-<img src = "Korea4.jpg" alt="Korea 4" width="300">
----
+<img src="Korea1.jpg" alt="Korea 1" width="300"/> <img src="Korea2.jpg" alt="Korea 2" width="300"/> <img src="Korea3.jpg" alt="Korea 3" width="300"/> <img src="Korea4.jpg" alt="Korea 4" width="300"/>
