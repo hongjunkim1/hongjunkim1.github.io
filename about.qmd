@@ -4,7 +4,7 @@ title: "About"
 
 <h4>Let me introduce myself!</h4>
 
-My name is Hongjun Kim, I am a first generation immigrant from South Korea. I have lived and studied in the United States since 2010. I graduated from Granada Hills Charter High School back in 2020. Attended Los Angeles Pierce College to get Associate's degree then transferred to UC Santa Barbara. I am Native in Korean, English and Limited Working Proficiency in Spanish.
+My name is Hongjun Kim, I am a first-generation immigrant from South Korea. I have lived and studied in the United States since 2010. I graduated from Granada Hills Charter High School back in 2020. Attended Los Angeles Pierce College to get an Associate's degree then transferred to UC Santa Barbara. I am Native in Korean, English, and Limited Working Proficiency in Spanish.
 
 <h4>Educational Background</h4>
 
