@@ -1,15 +1,45 @@
 ---
 title: "Traveling"
+toc: true
+toc-depth: 2
+lightbox: auto
+include-after-body: lightbox.html
 ---
 
-<h2>Hawaii Trip!</h2>
+## Hawaii!
 
-<img src="Hawaii1.jpg" alt="Hawaii 1" width="300"/> <img src="Hawaii2.jpg" alt="Hawaii 2" width="300"/> <img src="Hawaii3.jpg" alt="Hawaii 3" width="300"/>
+<a href="Hawaii1.jpg" data-lightbox="hawaii" data-title="Hawaii Photo 1 - Beautiful Night Waikiki Beach">
+` <img src="Hawaii1.jpg" alt="Hawaii Photo 1" style="width:30%;" />
+</a>`{=html}
 
-<h2>Big Bear Trip!</h2>
+<a href="Hawaii2.jpg" data-lightbox="hawaii" data-title="Hawaii Photo 2 - View from Diamond Head">
+` <img src="Hawaii2.jpg" alt="Hawaii Photo 2" style="width:30%;" />
+</a>`{=html}
 
-<img src="BigBear1.jpg" alt="Big Bear 1" width="300"/> <img src="BigBear2.jpg" alt="Big Bear 2" width="300"/>
+<a href="Hawaii3.jpg" data-lightbox="hawaii" data-title="Hawaii Photo 3 - View of Waikiki from the Catamaran">
+` <img src="Hawaii3.jpg" alt="Hawaii Photo 3" style="width:30%;" />
+</a>`{=html}
 
-<h2>Korea Trip!</h2>
+## Big Bear!
 
-<img src="Korea1.jpg" alt="Korea 1" width="300"/> <img src="Korea2.jpg" alt="Korea 2" width="300"/> <img src="Korea3.jpg" alt="Korea 3" width="300"/> <img src="Korea4.jpg" alt="Korea 4" width="300"/>
+<a href="BigBear1.jpg" data-lightbox="BigBear" data-title="Big Bear Photo 1 - Frozen Big Bear Lake"> ` <img src="BigBear1.jpg" alt="Big Bear Photo 1" style="width:30%;" /> </a>`{=html}
+
+<a href="BigBear2.jpg" data-lightbox="BigBear" data-title="Big Bear Photo 2 - Me at the lake"> ` <img src="BigBear2.jpg" alt="Big Bear Photo 2" style="width:30%;" /> </a>`{=html}
+
+## Korea Trip!
+
+<a href="Korea1.jpg" data-lightbox="korea" data-title="Korea Photo 1 - Flight to Korea!"> ` <img src="Korea1.jpg" alt="KoreaPhoto 1" style="width:30%;" /> </a>`{=html}
+
+<a href="Korea5.jpg" data-lightbox="korea" data-title="Korea Photo 2 - Seoul Airport"> ` <img src="Korea5.jpg" alt="KoreaPhoto 3" style="width:30%;" /> </a>`{=html}
+
+<a href="Korea2.jpg" data-lightbox="korea" data-title="Korea Photo 3 - Snowy Park in Suwon"> ` <img src="Korea2.jpg" alt="KoreaPhoto 2" style="width:30%;" /> </a>`{=html}
+
+<a href="Korea4.jpg" data-lightbox="korea" data-title="Korea Photo 4 - King Sejong Birth Palace"> ` <img src="Korea4.jpg" alt="KoreaPhoto 4" style="width:30%;" /> </a>`{=html}
+
+<a href="Korea6.jpg" data-lightbox="korea" data-title="Korea Photo 6 - Lake next to King Sejong Palace"> ` <img src="Korea6.jpg" alt="KoreaPhoto 6" style="width:30%;" /> </a>`{=html}
+
+<a href="Korea7.jpg" data-lightbox="korea" data-title="Korea Photo 7 - Grandma's house"> ` <img src="Korea7.jpg" alt="KoreaPhoto 7" style="width:30%;" /> </a>`{=html}
+
+<a href="Korea8.jpg" data-lightbox="korea" data-title="Korea Photo 8 - Park in Jeju Island"> ` <img src="Korea8.jpg" alt="KoreaPhoto 8" style="width:30%;" /> </a>`{=html}
+
+<a href="Korea9.jpg" data-lightbox="korea" data-title="Korea Photo 9 - Saeyeongyo Bridge"> ` <img src="Korea9.jpg" alt="KoreaPhoto 9" style="wid`{=html}
