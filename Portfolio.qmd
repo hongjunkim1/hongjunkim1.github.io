@@ -12,8 +12,6 @@ body { font-family: 'Arial'; color: #333;
 
 h1, h2, h3, h4, h5, h6 { font-family: 'Georgia, serif'; color: #0066cc; }
 
-a { color: #red; }
-
 </style>
 
 Here are a few examples of my work from relevant coursework.
