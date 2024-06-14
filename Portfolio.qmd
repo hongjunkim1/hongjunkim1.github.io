@@ -1,11 +1,21 @@
 ---
 title: "Portfolio"
+toc: true
+toc-depth: 2
+include-after-body: styles.css
 ---
 
-Here are a few examples of my work from relevant course works.  
+Here are a few examples of my work from relevant coursework.
 
-Link to final paper in Psychology 074, as a first-generation immigrant I decided to collect and evaluate different perspectives and support from a diverse group of randomly selected individuals.
+## Psychology 074 Final Paper
 
-[Final Draft on Support for Immigrants.](Draft%20FINAL.pdf)
+As a first-generation immigrant, I decided to collect and evaluate different perspectives and support from a diverse group of randomly selected individuals.
 
+### Embedded PDF
+
+<iframe src="Draft FINAL.pdf" style="width:100%; height:600px;" frameborder="0"></iframe>
+
+### Download Link
+
+[Final Draft on Support for Immigrants](Draft FINAL.pdf)
 More to come!
