@@ -25,7 +25,7 @@
     "href": "Portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Here are a few examples of my work from relevant course works.\nLink to final paper in Psychology 074, as a first-generation immigrant I decided to collect and evaluate different perspectives and support from a diverse group of randomly selected individuals.\nFinal Draft on Support for Immigrants.\nMore to come!"
+    "text": "Here are a few examples of my work from relevant coursework."
   },
   {
     "objectID": "about.html#c",
@@ -74,7 +74,7 @@
     "href": "Traveling.html#korea-trip",
     "title": "Traveling",
     "section": "Korea Trip!",
-    "text": "Korea Trip!\n  \n  \n  \n  \n  \n  \n  \n \nHongjun Kim Hongjun Kim Home /index.html About /about.html Traveling /Traveling.html Portfolio /Portfolio.html"
+    "text": "Korea Trip!"
   },
   {
     "objectID": "Traveling.html#hawaii",
@@ -82,5 +82,12 @@
     "title": "Traveling",
     "section": "",
     "text": "Nightview of waikiki beach!"
+  },
+  {
+    "objectID": "Portfolio.html#psychology-074-final-paper",
+    "href": "Portfolio.html#psychology-074-final-paper",
+    "title": "Portfolio",
+    "section": "Psychology 074 Final Paper",
+    "text": "Psychology 074 Final Paper\nAs a first-generation immigrant, I decided to collect and evaluate different perspectives and support from a diverse group of randomly selected individuals.\n\nEmbedded PDF\n\n\n\n\nDownload Link\nFinal Draft on Support for Immigrants More to come!"
   }
 ]
