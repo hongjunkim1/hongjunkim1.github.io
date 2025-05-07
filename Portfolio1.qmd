@@ -1,5 +1,5 @@
 ---
-title: "Portfolio1"
+title: "Portfolio"
 toc: true
 toc-depth: 2
 ---
@@ -30,11 +30,5 @@ Regression Analysis
 
 <iframe src="PSTAT 126 Final Report.pdf " style="width:100%; height:600px;" frameborder="0"></iframe>
 <iframe src="Pstat 126.pdf" style="width:100%; height:600px;" frameborder="0"></iframe>
-
-## Links
-[Download Psychology 74](Draft FINAL.pdf)
-[Download PSTAT 122](122 Final.pdf)
-[Download PSTAT 126](PSTAT 126 Final Report.pdf)
-[Download PSTAT 126](Pstat 126.pdf)
 
 ## More to come!
