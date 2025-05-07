@@ -16,15 +16,20 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Georgia, serif'; color: #0066cc; }
 
 Here are a few examples of my work from relevant coursework.
 
-## Psychology 074 Final Paper
-
-As a first-generation immigrant, I decided to collect and evaluate different perspectives and support from a diverse group of randomly selected individuals.
-
-### Embedded PDF
+## Psychology 074 PROJECT
 
 <iframe src="Draft FINAL.pdf" style="width:100%; height:600px;" frameborder="0"></iframe>
 
-### Download Link
+## PSTAT 122 PROJECT
+Time Series
 
-[Final Draft on Support for Immigrants](Draft FINAL.pdf)
-More to come!
+<iframe src="122 Final.pdf" style="width:100%; height:600px;" frameborder="0"></iframe>
+
+## PSTAT 126 PROJECT
+Regression Analysis
+
+<iframe src="PSTAT 126 Final Report.pdf" style="width:100%; height:600px;" frameborder="0"></iframe>
+<iframe src="Pstat 126.pdf" style="width:100%; height:600px;" frameborder="0"></iframe>
+
+
+##More to come!
