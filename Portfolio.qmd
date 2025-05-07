@@ -28,7 +28,9 @@ Here are a few examples of my work from relevant coursework.
 
 Time Series
 
-<iframe src="122 Final.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
+<iframe src="122 Final.pdf" style="width:100%; height:500px;" frameborder="0">
+
+</iframe>
 
 ## PSTAT 126 PROJECT
 
