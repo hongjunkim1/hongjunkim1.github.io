@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Portfolio"
 toc: true
@@ -45,3 +46,52 @@ Regression Analysis
 </iframe>
 
 ## More to come!
+=======
+---
+title: "Portfolio"
+toc: true
+toc-depth: 2
+---
+
+```{=html}
+<style>
+
+body { font-family: 'Arial'; color: #333;
+
+}
+
+h1, h2, h3, h4, h5, h6 { font-family: 'Georgia, serif'; color: #0066cc; }
+
+</style>
+```
+
+Here are a few examples of my work from relevant coursework.
+
+## Psychology 074 PROJECT
+
+<iframe src="Draft FINAL.pdf" style="width:100%; height:500px;" frameborder="0">
+
+</iframe>
+
+## PSTAT 122 PROJECT
+
+Time Series
+
+<iframe src="122 Final.pdf" style="width:100%; height:500px;" frameborder="0">
+
+</iframe>
+
+## PSTAT 126 PROJECT
+
+Regression Analysis
+
+<iframe src="PSTAT 126 Final Report .pdf " style="width:100%; height:500px;" frameborder="0">
+
+</iframe>
+
+<iframe src="Pstat 126.pdf" style="width:100%; height:500px;" frameborder="0">
+
+</iframe>
+
+## More to come!
+>>>>>>> 779d1812b3ceceef11ebca6c481be38082700f04

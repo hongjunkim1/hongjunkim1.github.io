@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 project:
   type: website
   output-dir: docs
@@ -20,3 +21,27 @@ format:
 
 editor: visual
 
+=======
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Hongjun Kim"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - Traveling.qmd
+      - Portfolio.qmd
+      
+format:
+  html:
+    theme: LUX
+    css: styles.css
+    toc: true
+
+editor: visual
+
+>>>>>>> 779d1812b3ceceef11ebca6c481be38082700f04
