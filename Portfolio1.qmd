@@ -33,4 +33,10 @@ Regression Analysis
 <iframe src="Pstat 126.pdf" style="width:100%; height:600px;" frameborder="0"></iframe>
 
 
-##More to come!
+## Links
+[Download Psychology 74](Draft FINAL.pdf)
+[Download PSTAT 122](122 Final.pdf)
+[Download PSTAT 126](PSTAT 126 Final Report.pdf)
+[Download PSTAT 126](Pstat 126.pdf)
+
+## More to come!
