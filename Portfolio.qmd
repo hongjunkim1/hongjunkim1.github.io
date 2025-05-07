@@ -20,7 +20,7 @@ Here are a few examples of my work from relevant coursework.
 
 ## Psychology 074 PROJECT
 
-<iframe src="Draft FINAL.pdf" style="width:100%; height:600px;" frameborder="0">
+<iframe src="Draft FINAL.pdf" style="width:100%; height:500px;" frameborder="0">
 
 </iframe>
 
@@ -28,17 +28,17 @@ Here are a few examples of my work from relevant coursework.
 
 Time Series
 
-<iframe src="122 Final.pdf" style="width:100%; height:600px;" frameborder="0"></iframe>
+<iframe src="122 Final.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
 
 ## PSTAT 126 PROJECT
 
 Regression Analysis
 
-<iframe src="PSTAT 126 Final Report .pdf " style="width:100%; height:600px;" frameborder="0">
+<iframe src="PSTAT 126 Final Report .pdf " style="width:100%; height:500px;" frameborder="0">
 
 </iframe>
 
-<iframe src="Pstat 126.pdf" style="width:100%; height:600px;" frameborder="0">
+<iframe src="Pstat 126.pdf" style="width:100%; height:500px;" frameborder="0">
 
 </iframe>
 
