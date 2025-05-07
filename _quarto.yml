@@ -10,7 +10,7 @@ website:
         text: Home
       - about.qmd
       - Traveling.qmd
-      - Portfolio.qmd
+      - Portfolio1.qmd
       
 format:
   html:
